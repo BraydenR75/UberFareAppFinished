@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UberFareApp</string>
+    <string name="appName">Uber Fare App</string>
+    <string name="requestRide">Request ride now</string>
+    <string name="backBeginning">Go back to Beginning</string>
+    <string name="btnEstimateUber">Estimate Uber Cost</string>
+    <string-array name="spinnerCars">
+        <item> Traditional Sedan </item>
+        <item> Smart Car (2$ Fee) </item>
+        <item> Minivan (5$ fee) </item>
+    </string-array>
+    <string name="carPickTxt">Please select the type of car you would like to pick you up </string>
+    <string name="carTotal">Ride Total</string>
+    <string name="chosenCar">Car: </string>
+    <string name="chosenMiles">Miles: </string>
+    <string name="milesPickTxt">How many miles you are going to travel</string>
+    <string name="thxPurchase">Thank you for your purchase!</string>
+    <string name="yourDriver">Your driver</string>
+    <string name="inputMileHint">15</string>
+    <string name="bingus">Bingus</string>
+    <string name="willArrive">will arrive in 5 mins</string>
+    <string name="chosenTotal">Total: </string>
+
+
+</resources>
